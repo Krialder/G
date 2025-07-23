@@ -1,0 +1,3 @@
+The algorithm ensures that, over time, the proportion of assignments for each participant approaches the proportion of their active participation, independent of when they joined or their experience level. It dynamically increases the assignment probability for those who are behind their fair share, and applies additional boosts for less experienced or long-unselected participants, so that all participants receive an equitable share of assignments relative to their presence and participation in the group.
+
+give out the perfect mathematical algorithmas for that
