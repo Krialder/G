@@ -1,0 +1,58 @@
+{
+    "launcher_config": {
+        "app_name": "Gießplan - Rotkreuz-Institut BBW",
+        "app_description": "Gießplan Generator für das Rotkreuz-Institut",
+        "main_script": "main.py",
+        "window_size": {
+            "width": 600,
+            "height": 400
+        },
+        "required_libraries": [
+            "tkinter",
+            "json", 
+            "datetime",
+            "re",
+            "os",
+            "sys",
+            "subprocess",
+            "atexit",
+            "urllib",
+            "pathlib",
+            "csv"
+        ],
+        "optional_libraries": [
+            "openpyxl",
+            "pandas"
+        ],
+        "python_download_url": "https://www.python.org/downloads/",
+        "enable_logging": true,
+        "auto_install_libraries": true,
+        "check_timeout": 60,
+        "colors": {
+            "primary": "#2E8B57",
+            "secondary": "#4682B4", 
+            "success": "#32CD32",
+            "warning": "#FF8C00",
+            "error": "#DC143C",
+            "info": "#4169E1"
+        },
+        "messages": {
+            "welcome": "Willkommen zum Gießplan Launcher!\nDieser Launcher überprüft Ihr System und stellt sicher, dass alle erforderlichen Komponenten für die Gießplan-Anwendung verfügbar sind.",
+            "python_not_found": "Python ist nicht installiert oder nicht im PATH verfügbar.",
+            "libraries_missing": "Die folgenden Bibliotheken fehlen:",
+            "install_success": "Alle Überprüfungen erfolgreich! Die Anwendung kann gestartet werden.",
+            "install_failed": "Es wurden Probleme gefunden. Bitte beheben Sie diese vor dem Start.",
+            "desktop_shortcut_info": "Das Desktop-Icon wird automatisch den besten verfügbaren Launcher aus dem aktuellen Ordner auswählen (launcher.py > start_giessplan.bat > start_giessplan.ps1 > main.py).",
+            "python_install_guide": [
+                "Sie werden zur Python-Download-Seite weitergeleitet.",
+                "",
+                "Wichtige Installationsschritte:",
+                "1. Laden Sie die neueste Python-Version herunter",
+                "2. Starten Sie den Installer als Administrator", 
+                "3. ✅ WICHTIG: Aktivieren Sie 'Add Python to PATH'",
+                "4. Wählen Sie 'Install Now'",
+                "5. Starten Sie nach der Installation diesen Launcher erneut"
+            ]
+        }
+    }
+}

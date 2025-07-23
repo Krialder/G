@@ -1,0 +1,124 @@
+{
+  "PEOPLE": [
+    "Noah Endler",
+    "Jan Hensler",
+    "Josephine Knobel",
+    "Mark Mueller",
+    "Marvin Ruethnick",
+    "Dominik Sommerlad",
+    "Justin Voss",
+    "Pascal Broeker",
+    "Melissa Donix",
+    "Rosa Hoffmann",
+    "Anica Mingram",
+    "Neuhof",
+    "Alexander Ranisch",
+    "Antonia Barduhn",
+    "Mariella Bartholdy"
+  ],
+  "WEIGHTS": [
+    7,
+    8,
+    8,
+    8,
+    8,
+    8,
+    7,
+    8,
+    8,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+  ],
+  "EXTRA_WEIGHTS": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "WATERING_HISTORY": {
+    "Noah Endler": [
+      "2025 KW 37: Antonia Barduhn and Noah Endler (ErsatzPersons: Jan Hensler and Josephine Knobel)",
+      "2025 KW 45: Josephine Knobel and Noah Endler (ErsatzPersons: Mariella Bartholdy and Mark Mueller)",
+      "2025 KW 52: Mariella Bartholdy and Noah Endler (ErsatzPersons: Marvin Ruethnick and Jan Hensler)"
+    ],
+    "Jan Hensler": [
+      "2025 KW 40: Jan Hensler and Justin Voss (ErsatzPersons: Anica Mingram and Melissa Donix)",
+      "2025 KW 44: Jan Hensler and Neuhof (ErsatzPersons: Noah Endler and Josephine Knobel)"
+    ],
+    "Josephine Knobel": [
+      "2025 KW 38: Josephine Knobel and Mark Mueller (ErsatzPersons: Jan Hensler and Dominik Sommerlad)",
+      "2025 KW 45: Josephine Knobel and Noah Endler (ErsatzPersons: Mariella Bartholdy and Mark Mueller)"
+    ],
+    "Mark Mueller": [
+      "2025 KW 38: Josephine Knobel and Mark Mueller (ErsatzPersons: Jan Hensler and Dominik Sommerlad)",
+      "2025 KW 46: Mark Mueller and Marvin Ruethnick (ErsatzPersons: Mariella Bartholdy and Justin Voss)"
+    ],
+    "Marvin Ruethnick": [
+      "2025 KW 39: Marvin Ruethnick and Dominik Sommerlad (ErsatzPersons: Pascal Broeker and Jan Hensler)",
+      "2025 KW 46: Mark Mueller and Marvin Ruethnick (ErsatzPersons: Mariella Bartholdy and Justin Voss)"
+    ],
+    "Dominik Sommerlad": [
+      "2025 KW 39: Marvin Ruethnick and Dominik Sommerlad (ErsatzPersons: Pascal Broeker and Jan Hensler)",
+      "2025 KW 48: Dominik Sommerlad and Melissa Donix (ErsatzPersons: Pascal Broeker and Anica Mingram)"
+    ],
+    "Justin Voss": [
+      "2025 KW 35: Justin Voss and Anica Mingram (ErsatzPersons: Antonia Barduhn and Mariella Bartholdy)",
+      "2025 KW 40: Jan Hensler and Justin Voss (ErsatzPersons: Anica Mingram and Melissa Donix)",
+      "2025 KW 47: Mariella Bartholdy and Justin Voss (ErsatzPersons: Melissa Donix and Dominik Sommerlad)"
+    ],
+    "Pascal Broeker": [
+      "2025 KW 43: Antonia Barduhn and Pascal Broeker (ErsatzPersons: Mariella Bartholdy and Noah Endler)",
+      "2025 KW 50: Antonia Barduhn and Pascal Broeker (ErsatzPersons: Mariella Bartholdy and Alexander Ranisch)"
+    ],
+    "Melissa Donix": [
+      "2025 KW 41: Anica Mingram and Melissa Donix (ErsatzPersons: Pascal Broeker and Rosa Hoffmann)",
+      "2025 KW 48: Dominik Sommerlad and Melissa Donix (ErsatzPersons: Pascal Broeker and Anica Mingram)"
+    ],
+    "Rosa Hoffmann": [
+      "2025 KW 34: Neuhof and Rosa Hoffmann (ErsatzPersons: Antonia Barduhn and Justin Voss)",
+      "2025 KW 42: Alexander Ranisch and Rosa Hoffmann (ErsatzPersons: Antonia Barduhn and Pascal Broeker)",
+      "2025 KW 49: Anica Mingram and Rosa Hoffmann (ErsatzPersons: Neuhof and Pascal Broeker)"
+    ],
+    "Anica Mingram": [
+      "2025 KW 35: Justin Voss and Anica Mingram (ErsatzPersons: Antonia Barduhn and Mariella Bartholdy)",
+      "2025 KW 41: Anica Mingram and Melissa Donix (ErsatzPersons: Pascal Broeker and Rosa Hoffmann)",
+      "2025 KW 49: Anica Mingram and Rosa Hoffmann (ErsatzPersons: Neuhof and Pascal Broeker)"
+    ],
+    "Neuhof": [
+      "2025 KW 34: Neuhof and Rosa Hoffmann (ErsatzPersons: Antonia Barduhn and Justin Voss)",
+      "2025 KW 44: Jan Hensler and Neuhof (ErsatzPersons: Noah Endler and Josephine Knobel)",
+      "2025 KW 51: Neuhof and Alexander Ranisch (ErsatzPersons: Noah Endler and Mariella Bartholdy)"
+    ],
+    "Alexander Ranisch": [
+      "2025 KW 36: Mariella Bartholdy and Alexander Ranisch (ErsatzPersons: Josephine Knobel and Antonia Barduhn)",
+      "2025 KW 42: Alexander Ranisch and Rosa Hoffmann (ErsatzPersons: Antonia Barduhn and Pascal Broeker)",
+      "2025 KW 51: Neuhof and Alexander Ranisch (ErsatzPersons: Noah Endler and Mariella Bartholdy)"
+    ],
+    "Antonia Barduhn": [
+      "2025 KW 37: Antonia Barduhn and Noah Endler (ErsatzPersons: Jan Hensler and Josephine Knobel)",
+      "2025 KW 43: Antonia Barduhn and Pascal Broeker (ErsatzPersons: Mariella Bartholdy and Noah Endler)",
+      "2025 KW 50: Antonia Barduhn and Pascal Broeker (ErsatzPersons: Mariella Bartholdy and Alexander Ranisch)"
+    ],
+    "Mariella Bartholdy": [
+      "2025 KW 36: Mariella Bartholdy and Alexander Ranisch (ErsatzPersons: Josephine Knobel and Antonia Barduhn)",
+      "2025 KW 47: Mariella Bartholdy and Justin Voss (ErsatzPersons: Melissa Donix and Dominik Sommerlad)",
+      "2025 KW 52: Mariella Bartholdy and Noah Endler (ErsatzPersons: Marvin Ruethnick and Jan Hensler)"
+    ]
+  },
+  "EXPERIENCE_OVERRIDES": {}
+}
