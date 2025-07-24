@@ -1,0 +1,21 @@
+2. Adaptive Window Size:
+
+Dynamically adjust the window_size of the assignment history based on recent fairness or variance, making the system more or less sensitive to recent changes.
+3. Experience Level Rebalancing:
+
+If the ratio of beginners to experienced participants changes significantly, adjust pairing logic or selection probabilities to maintain balanced learning opportunities.
+4. Parameter Search/Meta-Optimization:
+
+Occasionally try random or grid search for parameters (alpha, beta, etc.) and keep those that improve fairness or performance metrics.
+5. Override Decay Customization:
+
+Make the override decay rate adaptive: decay faster if the system is stable, slower if fairness is poor.
+6. Anomaly Pattern Learning:
+
+Track which participants are frequently flagged as anomalies and adjust their base weights or selection logic accordingly.
+7. Logging Analysis for Trends:
+
+Periodically analyze the log file for trends (e.g., using pandas or numpy) and use this analysis to trigger parameter changes or alerts.
+8. Automated Experience Promotion:
+
+implement the above. make sure do add modularity from the beginning and always write out the complete code 
